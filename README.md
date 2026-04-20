@@ -95,4 +95,4 @@ ssh root@<HONEYPOT_IP> -p 2222
 ```
 
 ## Documentation
-A full report is available in `honeypot-proj-report.pdf`
+Full report is available in `honeypot-proj-report.pdf`
